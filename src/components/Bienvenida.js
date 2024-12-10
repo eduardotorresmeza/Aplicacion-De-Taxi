@@ -6,7 +6,7 @@ function Bienvenida() {
     <div className="container mt-5">
       <Card className="shadow-lg rounded">
         <Card.Body>
-          <h2 className="text-center mb-4" style={{ color: '#FFCC00' }}>Bienvenidos a TaxiPro</h2>
+          <h2 className="text-center mb-4" style={{ color: '#FFCC00' }}>Bienvenido a TaxiPro</h2>
           <p className="text-center">Esta es tu aplicación de gestión de taxis. Aquí podrás administrar usuarios, taxis, rutas y categorías. ¿Qué te gustaría hacer hoy?</p>
           
         
